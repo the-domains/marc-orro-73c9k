@@ -1,0 +1,33 @@
+typography_spectrum: 0.857651581056416
+color:
+  brandStrength: 0.5695942810270935
+  lightness: 0.7647678696084768
+  saturation: 0.6938428243156523
+  rhythmicContrast: 0.008524386212229729
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08c231a-0803-4734-9ece-f17b99099a21.png
+layout_spectrum: 0.4596102316863835
+author:
+  name: Marc Orro
+  email: marc@orro.me
+  url: Marc.Orro.me
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d01d0025-3fa7-4b14-81e2-72e7da60abc6.png
+name: Marc Orro
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4efeddf-b47b-4e7f-a273-b7b6f15747b1.png
+title: Marc Orro
+content: []
+description: Brand Manager & Digital Strategist
+purpose:
+  - type: contact
+    url: 'mailto:marc@orro.me'
+    label: Contact me
