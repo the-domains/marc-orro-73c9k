@@ -15,6 +15,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08c231a-0803-4734-9ece-f17b99099a21.png
 layout_spectrum: 0.4596102316863835
+analytics:
+  google: UA-41772503-1
 author:
   name: Marc Orro
   email: marc@orro.me
