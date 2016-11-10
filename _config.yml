@@ -24,6 +24,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d01d0025-3fa7-4b14-81e2-72e7da60abc6.png
 name: Marc Orro
+navigation:
+  - name: Live Projects
+    id: c58b738e-f4df-429c-b03f-3ec73507472d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4efeddf-b47b-4e7f-a273-b7b6f15747b1.png
 title: Marc Orro
