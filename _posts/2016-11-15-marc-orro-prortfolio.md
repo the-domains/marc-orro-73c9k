@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-15T00:52:40.139Z'
+datePublished: '2016-11-15T00:53:23.584Z'
 sourcePath: _posts/2016-11-15-marc-orro-prortfolio.md
 inFeed: true
 isBasedOnUrl: 'http://folio.orro.me/projects'
@@ -7,19 +7,16 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-11-15T00:52:39.547Z'
-title: Projects
+dateModified: '2016-11-15T00:53:22.850Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://folio.orro.me'
-  name: Folio
-  favicon: >-
-    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAADUExURUxpcU3H2DoAAAABdFJOUwBA5thmAAAADElEQVQI12NgIA0AAAAwAAHHqoWOAAAAAElFTkSuQmCC
-  domain: folio.orro.me
-description: The latest projects published. Contact me to get access
+publisher: {}
+description: ''
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ba76f5-8b73-4ee1-823d-dff1289ae924.png)
+
 <article style=""><h1>Projects</h1><p>The latest projects published. Contact me to get access</p></article>
