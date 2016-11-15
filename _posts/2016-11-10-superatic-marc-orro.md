@@ -22,12 +22,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://github.com/superatic'
 title: SuperAtic (Marc Orro)
-datePublished: '2016-11-10T23:25:54.405Z'
-dateModified: '2016-11-10T23:25:26.876Z'
+datePublished: '2016-11-15T00:54:32.652Z'
+dateModified: '2016-11-15T00:54:31.969Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-10-superatic-marc-orro.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
