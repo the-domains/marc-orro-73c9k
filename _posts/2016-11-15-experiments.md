@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-15T00:50:50.304Z'
+datePublished: '2016-11-15T00:54:25.481Z'
 sourcePath: _posts/2016-11-15-experiments.md
 inFeed: true
 isBasedOnUrl: 'http://folio.orro.me/experiments'
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-15T00:50:49.326Z'
+dateModified: '2016-11-15T00:54:25.051Z'
 title: Experiments
 app_links: []
 publisher:
