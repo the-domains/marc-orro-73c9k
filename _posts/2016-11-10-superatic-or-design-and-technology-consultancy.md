@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-10T23:30:58.143Z'
+datePublished: '2016-11-15T00:54:25.481Z'
 sourcePath: _posts/2016-11-10-superatic-or-design-and-technology-consultancy.md
 inFeed: true
 isBasedOnUrl: 'http://superatic.com'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-10T23:30:57.292Z'
+dateModified: '2016-11-15T00:54:25.051Z'
 title: SuperAtic | Design & Technology Consultancy
 app_links: []
 publisher:
