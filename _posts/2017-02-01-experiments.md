@@ -20,13 +20,13 @@ description: Art For Sale
 app_links: []
 isBasedOnUrl: 'http://experiments.orro.me/'
 title: "\uD83D\uDCA5 Experiments"
-datePublished: '2017-02-01T10:30:32.796Z'
-dateModified: '2017-02-01T10:30:31.955Z'
+datePublished: '2017-02-01T10:31:23.978Z'
+dateModified: '2017-02-01T10:31:21.017Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-02-01-experiments.md
 starred: false
 datePublishedOriginal: '2017-02-01T10:30:31.216Z'
-sourcePath: _posts/2017-02-01-experiments.md
 _context: 'http://schema.org'
 _type: MediaObject
 
