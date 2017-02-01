@@ -1,20 +1,18 @@
-typography_spectrum: 0.5628604704305752
+typography_spectrum: 0.44573381858112493
 color:
-  brandStrength: 0.9278241306098898
-  lightness: 0.9696343557308843
-  saturation: 0.6864054492372319
-  rhythmicContrast: 0.5544266433238356
+  saturation: 0.6713097720405106
+  brandStrength: 0.31311783324502923
+  rhythmicContrast: 0.5717756238962421
   brandColors:
     - '#332532'
     - '#644D52'
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
-github: true
+  lightness: 0.8214288871304712
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08c231a-0803-4734-9ece-f17b99099a21.png
-layout_spectrum: 0.12132219809208913
+  image: null
+layout_spectrum: 0.45643838966947675
 analytics:
   google: UA-41772503-1
 author:
@@ -22,21 +20,37 @@ author:
   email: marc@orro.me
   url: Marc.Orro.me
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d01d0025-3fa7-4b14-81e2-72e7da60abc6.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/52017e6d-800f-4fd0-a571-096474edfeae.png
 name: Marc Orro
 navigation:
-  - name: Live Projects
-    id: c58b738e-f4df-429c-b03f-3ec73507472d
-    type: content
+  - name: "\uD83D\uDCA5  Experiments"
+    url: 'http://experiments.orro.me'
+    type: external
+  - name: "\uD83D\uDC40  Projects"
+    url: 'http://projects.orro.me'
+    type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4efeddf-b47b-4e7f-a273-b7b6f15747b1.png
-title: Marc Orro
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b1e7552-cb7b-4c7d-99be-52acb2945027.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: ''
 content: []
-description: Brand Manager & Digital Strategist
+description: ' This site is built using Artificial Intelligence. I''m working to improve it :)'
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
-    label: Drop me a line
+    label: "\uD83D\uDCDD Drop me a line"
   - type: contact
     url: 'tel:+61(0)426266776'
-    label: or Give me a buzz!
+    label: "\uD83D\uDCDE or give me a buzz"
+github: true
