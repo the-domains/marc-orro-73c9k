@@ -101,7 +101,7 @@ description: >-
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
-    label: Drop him a line
+    label: "\uD83D\uDCE9 Contact me"
   - type: contact
     url: 'tel:+61(0)426266776'
     label: "\uD83D\uDCDE or give me a buzz"
