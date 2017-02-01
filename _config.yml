@@ -93,7 +93,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' This site is built using Artificial Intelligence. I''m teaching him how to learn and improve'
+description: >-
+  He’s young, he’s learning, but he already designed hundreds of web and mobile
+  apps including this one. 24/7 he’s experimenting, figuring out what works &
+  what doesn’t.  He's quirky, but will never ghost you, never charge more, never
+  miss a deadline, never cower to your demands for a bigger logo.
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
