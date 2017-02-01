@@ -43,7 +43,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
+title: Your new AI designer
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
