@@ -86,7 +86,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -94,7 +93,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' This site is built using Artificial Intelligence. I''m working to improve it :)'
+description: ' This site is built using Artificial Intelligence. I''m working to teach him how to learn and improve'
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
