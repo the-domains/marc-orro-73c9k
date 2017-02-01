@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-01T10:31:24.139Z'
+datePublished: '2017-02-01T10:33:06.579Z'
 sourcePath: _posts/2016-11-15-projects-research-vision-and-perceptions.md
 inFeed: true
 isBasedOnUrl: 'http://projects.orro.me'
@@ -61,7 +61,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-02-01T10:31:21.017Z'
+dateModified: '2017-02-01T10:33:05.883Z'
 title: "\uD83D\uDC40 ' Projects"
 app_links: []
 publisher:
