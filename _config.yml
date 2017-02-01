@@ -93,7 +93,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ' This site is built using Artificial Intelligence. I''m working to teach him how to learn and improve'
+description: ' This site is built using Artificial Intelligence. I''m teaching him how to learn and improve'
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
