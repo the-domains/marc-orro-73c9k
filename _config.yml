@@ -95,7 +95,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   He’s young, he’s learning, but he already designed hundreds of web and mobile
-  apps including this one. 24/7 he’s experimenting
+  apps including this one. 24/7 experimenting
 purpose:
   - type: contact
     url: 'mailto:marc@orro.me'
