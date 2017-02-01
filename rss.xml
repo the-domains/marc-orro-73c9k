@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Marc Orro]]></title>
-        <description><![CDATA[Marc Orro]]></description>
+        <title><![CDATA[Your new AI designer]]></title>
+        <description><![CDATA[Your new AI designer]]></description>
         <link>http://marc.orro.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Nov 2016 00:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2017 09:30:33 GMT</lastBuildDate>
         <atom:link href="http://marc.orro.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Nov 2016 00:54:33 GMT</pubDate>
+        <pubDate>Wed, 01 Feb 2017 09:30:32 GMT</pubDate>
         <item>
-            <title><![CDATA[Experiments]]></title>
-            <description><![CDATA[<article><h1>Experiments</h1><p>A collection of arts</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/203affbc0cfa5ecb806a508ab635e344/noop.jpg?input=https%3A%2F%2Fpro2-bar-s3-cdn-cf5.myportfolio.com%2F586344dd7a00fe591f3f5b8a0923ea2f%2F655bbf61c5e42883c64f51496e866526c1bff2762be1d98b7cbe4ab38b49bc86b3a731ae49e292eb_car_202x158.jpg%3Fh%3D53d87a05218a4bc028a368c09795242d%26url%3DaHR0cHM6Ly9taXItczMtY2RuLWNmLmJlaGFuY2UubmV0L3Byb2plY3RzL29yaWdpbmFsLzQ0MTY2MC41NDNkN2ZlM2QyNGY5LmpwZw%3D%3D"></article>]]></description>
-            <link>http://folio.orro.me/experiments</link>
-            <guid isPermaLink="false">e89277f6-40cf-4b29-90ac-5b6b41bc6adf</guid>
-            <pubDate>Tue, 15 Nov 2016 00:54:25 GMT</pubDate>
+            <title><![CDATA[👀 ' Projects]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28e60d64-d14e-424c-9170-16bfd91f87f4.jpg">]]></description>
+            <link>http://projects.orro.me</link>
+            <guid isPermaLink="false">056c70a9-30f8-4f0b-8698-1ff407a768ca</guid>
+            <pubDate>Mon, 21 Nov 2016 02:03:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SuperAtic | Design & Technology Consultancy]]></title>
-            <description><![CDATA[<article><h1>SuperAtic | Design & Technology Consultancy</h1><p>Research, Vision & Perceptions | We provides innovative Technology & Communication services for business with a variety of needs and abilities. New Tecnologies consultants, Digital Media specialists, Information Architecture designers, Corporate Identities administrators, in a wide variety of business applications for a better experience.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85290d29-536a-4ebd-8c59-a37b1ea9eead.jpg"></article>]]></description>
-            <link>http://superatic.com</link>
-            <guid isPermaLink="false">78d816c9-3710-4199-814c-2ad0d11e4704</guid>
-            <pubDate>Tue, 15 Nov 2016 00:54:25 GMT</pubDate>
+            <title><![CDATA[Marc O | Saatchi Art]]></title>
+            <description><![CDATA[<article><h1>Marc O | Saatchi Art</h1><p>View Marc O&apos;s Profile on Saatchi Art. Find art for sale at great prices from artists including Paintings, Photography, Sculpture, and Prints by Top Emerging Artists like Marc O.</p><img src="http://d38we5ntdyxyje.cloudfront.net/940972/profile/OYOEJZOM_avatar_medium_square.jpg"></article>]]></description>
+            <link>http://www.saatchiart.com/superatic</link>
+            <guid isPermaLink="false">50cf0e69-313c-40f1-bdb4-abad8e6f3e75</guid>
+            <pubDate>Tue, 13 Dec 2016 22:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Projects]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ba76f5-8b73-4ee1-823d-dff1289ae924.png">]]></description>
-            <link>http://folio.orro.me/projects</link>
-            <guid isPermaLink="false">2da468be-d401-4ccb-9642-aa186db73a0c</guid>
-            <pubDate>Tue, 15 Nov 2016 00:53:23 GMT</pubDate>
+            <title><![CDATA[Marc O. | Cyclist on Strava]]></title>
+            <description><![CDATA[<article><h1>Marc O. | Cyclist on Strava</h1><p>Marc O. is a cyclist from Sydney, NSW, Australia. Join Strava to track your activities, analyze your performance, and follow friends. Strava members can plan routes, participate in motivating challenges, and join clubs. Get started by signing up for free.</p><img src="https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-63758b9942e3f074c3ecb84db07928ee.png"></article>]]></description>
+            <link>https://www.strava.com/athletes/441904</link>
+            <guid isPermaLink="false">acfe494e-84c2-41a5-bfff-ba429673d04a</guid>
+            <pubDate>Thu, 05 Jan 2017 02:37:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The cure for boredom is curiosity.The cure for curiosity is knowledge.The cure for knowledge is ignorance.]]></title>
-            <description><![CDATA[<h1>The cure for boredom is curiosity.The cure for curiosity is knowledge.The cure for knowledge is ignorance.</h1>]]></description>
-            <link>http://marc.orro.me/the-cure-for-boredom-is-curiositythe-cure-for-curiosity-is/index.html</link>
-            <guid isPermaLink="false">7cf313ad-8178-4108-a12e-edd7208caf2d</guid>
-            <pubDate>Fri, 11 Nov 2016 01:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Live Projects</p>]]></description>
-            <link>http://marc.orro.me/live-projects/index.html</link>
-            <guid isPermaLink="false">c58b738e-f4df-429c-b03f-3ec73507472d</guid>
-            <pubDate>Thu, 10 Nov 2016 23:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>The latest Tweets from SuperAtic (@superatic). A #creative #technology studio transforming #business for the world&apos;s biggest #brands by designing, developing &amp; delivering #digital experiences of consequence. Worldwide</blockquote>]]></description>
-            <link>http://twitter.com/superatic</link>
-            <guid isPermaLink="false">9dcc607f-f09d-469f-acde-ee6dd89922c3</guid>
-            <pubDate>Thu, 10 Nov 2016 23:25:57 GMT</pubDate>
+            <title><![CDATA[📐 TOOLS]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88425715-fb91-4954-870d-0a658a5b3fb4.png" title="&#x1F4D0; TOOLS" alt="Daily Needed">]]></description>
+            <link>http://ads.superatic.com/</link>
+            <guid isPermaLink="false">b618f5f0-ec6a-4422-aeb6-2e16274fe54f</guid>
+            <pubDate>Wed, 16 Nov 2016 05:21:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>The latest Tweets from Marc O. (@super_atic). #Brand #Manager &amp; #Digital #Strategist. Sydney NSW</blockquote>]]></description>
             <link>http://twitter.com/super_atic</link>
             <guid isPermaLink="false">25ed0d82-7952-42be-a26b-a82da4c04240</guid>
-            <pubDate>Thu, 10 Nov 2016 23:25:31 GMT</pubDate>
+            <pubDate>Tue, 15 Nov 2016 09:36:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SuperAtic (Marc Orro)]]></title>
-            <description><![CDATA[<article><h1>SuperAtic (Marc Orro)</h1><p>SuperAtic has 21 repositories available. Follow their code on GitHub.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c91543bca73e487bfaf14fd245ac24f7/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F567747%3Fv%3D3%26s%3D400"></article>]]></description>
-            <link>http://github.com/superatic</link>
-            <guid isPermaLink="false">b7ed925d-40ef-4261-b695-a36239d9eeea</guid>
-            <pubDate>Tue, 15 Nov 2016 00:54:32 GMT</pubDate>
+            <title><![CDATA[💩 ' GOODIES]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0e19d690a82168cdfd26d24623ac3952/croprotate.png?cropheight=548&cropwidth=505&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8d0e769d-2def-4383-8704-861cda904c57.png&x=16&y=13" title="&#x1F4A9; &apos; GOODIES" alt="SuperAtic LABS - Official clients services">]]></description>
+            <link>http://beta.superatic.com/goodies/</link>
+            <guid isPermaLink="false">a2e0a432-c35e-4473-99d0-d3311d91579d</guid>
+            <pubDate>Wed, 16 Nov 2016 07:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cure for boredom is curiosity.The cure for curiosity is knowledge.The cure for knowledge is ignorance.]]></title>
+            <description><![CDATA[<p>The cure for boredom is <em>curiosity.</em><br>The cure for <em>curiosity</em> is <em>knowledge</em>.<br>The cure for <em>knowledge</em> is <em>ignorance</em>.</p>]]></description>
+            <link>http://marc.orro.me/the-cure-for-boredom-is-curiositythe-cure-for-curiosity-is/index.html</link>
+            <guid isPermaLink="false">7cf313ad-8178-4108-a12e-edd7208caf2d</guid>
+            <pubDate>Tue, 15 Nov 2016 09:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SuperAtic | Design & Technology Consultancy]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c3e53fa-33fb-4903-96d4-3965e907f912.png" title="SuperAtic | Design &amp; Technology Consultancy" alt="Research, Vision &amp; Perceptions | We provides innovative Technology &amp; Communication services for business with a variety of needs and abilities. New Tecnologies consultants, Digital Media specialists, Information Architecture designers, Corporate Identities administrators, in a wide variety of business applications for a better experience.">]]></description>
+            <link>http://superatic.com</link>
+            <guid isPermaLink="false">78d816c9-3710-4199-814c-2ad0d11e4704</guid>
+            <pubDate>Tue, 15 Nov 2016 08:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
