@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-01T10:33:06.579Z'
+datePublished: '2017-08-27T01:51:45.398Z'
 sourcePath: _posts/2016-11-15-projects-research-vision-and-perceptions.md
 inFeed: true
 isBasedOnUrl: 'http://projects.orro.me'
@@ -61,7 +61,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-02-01T10:33:05.883Z'
+dateModified: '2017-08-27T01:51:44.340Z'
 title: "\uD83D\uDC40 ' Projects"
 app_links: []
 publisher:
@@ -74,4 +74,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28e60d64-d14e-424c-9170-16bfd91f87f4.jpg)
+![The latest work](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28e60d64-d14e-424c-9170-16bfd91f87f4.jpg)
